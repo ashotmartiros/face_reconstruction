@@ -1,2 +1,2 @@
 # face_reconstruction
-Project work for TUM 3D reconstruction and scanning class
+Simple project for RGB face reconstruction from a single image
